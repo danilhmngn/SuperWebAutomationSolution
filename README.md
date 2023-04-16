@@ -14,3 +14,5 @@ please adjust the web browser that you use and the directory location of your dr
 System.setProperty("webdriver.chrome.driver", "C:\\Users\\Koinworks-Staff\\BrowserDriver\\chromedriver_win32\\chromedriver.exe");
 		
 ChromeDriver driver = new ChromeDriver();
+
+BTW i run this code in Eclipse IDE
